@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FAT: VFX Edition</title>
+</head>
+<body>
+    <h1>If you see this, the code is working!</h1>
+    <script>
+        alert("The game is running! Check the rest of your code.");
+    </script>
+</body>
+</html>
